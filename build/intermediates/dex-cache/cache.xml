@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Benton\.android\build-cache\3f8909974b033ffb8f869b12c04e99e45ff77c19\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="C:\Users\Benton\AndroidStudioProjects\FiTrainer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b939fe111248e70abbe6f6db0fc7a0af2b8b6d35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Benton\AndroidStudioProjects\FiTrainer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\Benton\AndroidStudioProjects\FiTrainer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5d1ee6087bb775f021fb4348abe721ec936a5481\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Benton\.android\build-cache\c0a45f8f5feb8f041de7ab46ddc1953c562f0c22\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\Benton\AndroidStudioProjects\FiTrainer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e02a52b373c7ae4dfeb4a70123307c49567f2f28\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Benton\.android\build-cache\b6cd6ea533d4b5d30f77aa94abc7393f220ff37c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="C:\Users\Benton\AndroidStudioProjects\FiTrainer\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7456ae05e419866ef782c135e38b44a88f1625a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Benton\AndroidStudioProjects\FiTrainer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="273737c8714ea87a428293d39b1455346ae14d22">
+        <dex dex="C:\Users\Benton\AndroidStudioProjects\FiTrainer\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_b0445da2ef616055986ab2f61db5b9f59ec1dd07\classes.dex" />
+    </item>
+
+</items>
